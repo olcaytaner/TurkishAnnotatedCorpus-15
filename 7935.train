@@ -1,1 +1,1 @@
-{turkish=Beyaz}{morphologicalAnalysis=beyaz+ADJ}{metaMorphemes=beyaz}{namedEntity=NONE}{shallowParse=HİÇBİRİ} {turkish=Erkekler}{morphologicalAnalysis=erkek+NOUN+A3PL+PNON+NOM}{metaMorphemes=erkek+lAr}{namedEntity=NONE}{shallowParse=HİÇBİRİ}
+{turkish=Beyaz}{morphologicalAnalysis=beyaz+ADJ}{metaMorphemes=beyaz}{namedEntity=NONE}{shallowParse=HİÇBİRİ}{universalDependency=2$AMOD} {turkish=Erkekler}{morphologicalAnalysis=erkek+NOUN+A3PL+PNON+NOM}{metaMorphemes=erkek+lAr}{namedEntity=NONE}{shallowParse=HİÇBİRİ}

@@ -1,1 +1,1 @@
-{turkish=Saul}{morphologicalAnalysis=saul+NOUN+PROP+A3SG+PNON+NOM}{metaMorphemes=saul}{namedEntity=PERSON}{shallowParse=HİÇBİRİ} {turkish=Resnick}{morphologicalAnalysis=Resnick+NOUN+PROP+A3SG+PNON+NOM}{namedEntity=PERSON}{shallowParse=HİÇBİRİ}
+{turkish=Saul}{morphologicalAnalysis=saul+NOUN+PROP+A3SG+PNON+NOM}{metaMorphemes=saul}{namedEntity=PERSON}{shallowParse=HİÇBİRİ}{universalDependency=2$NMOD} {turkish=Resnick}{morphologicalAnalysis=Resnick+NOUN+PROP+A3SG+PNON+NOM}{namedEntity=PERSON}{shallowParse=HİÇBİRİ}
