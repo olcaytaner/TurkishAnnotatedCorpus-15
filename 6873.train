@@ -1,1 +1,1 @@
-{turkish=KIM}{morphologicalAnalysis=KIM+NOUN+PROP+A3SG+PNON+NOM}{namedEntity=NONE}{shallowParse=HİÇBİRİ} {turkish=:}{morphologicalAnalysis=:+PUNC}{metaMorphemes=:}{namedEntity=NONE}{shallowParse=HİÇBİRİ}
+{turkish=KIM}{morphologicalAnalysis=KIM+NOUN+PROP+A3SG+PNON+NOM}{namedEntity=NONE}{shallowParse=HİÇBİRİ}{universalDependency=0$ROOT} {turkish=:}{morphologicalAnalysis=:+PUNC}{metaMorphemes=:}{namedEntity=NONE}{shallowParse=HİÇBİRİ}{universalDependency=1$PUNCT}

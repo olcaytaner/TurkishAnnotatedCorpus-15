@@ -1,1 +1,1 @@
-{turkish=HRH}{morphologicalAnalysis=HRH+NOUN+PROP+A3SG+PNON+NOM}{namedEntity=ORGANIZATION}{shallowParse=HİÇBİRİ} {turkish=:}{morphologicalAnalysis=:+PUNC}{metaMorphemes=:}{namedEntity=NONE}{shallowParse=HİÇBİRİ}
+{turkish=HRH}{morphologicalAnalysis=HRH+NOUN+PROP+A3SG+PNON+NOM}{namedEntity=ORGANIZATION}{shallowParse=HİÇBİRİ}{universalDependency=0$ROOT} {turkish=:}{morphologicalAnalysis=:+PUNC}{metaMorphemes=:}{namedEntity=NONE}{shallowParse=HİÇBİRİ}{universalDependency=1$PUNCT}

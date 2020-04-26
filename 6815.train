@@ -1,1 +1,1 @@
-{turkish=JKD}{morphologicalAnalysis=JKD+NOUN+PROP+A3SG+PNON+NOM}{namedEntity=ORGANIZATION}{shallowParse=HİÇBİRİ} {turkish=:}{morphologicalAnalysis=:+PUNC}{metaMorphemes=:}{shallowParse=HİÇBİRİ}
+{turkish=JKD}{morphologicalAnalysis=JKD+NOUN+PROP+A3SG+PNON+NOM}{namedEntity=ORGANIZATION}{shallowParse=HİÇBİRİ}{universalDependency=0$ROOT} {turkish=:}{morphologicalAnalysis=:+PUNC}{metaMorphemes=:}{shallowParse=HİÇBİRİ}{universalDependency=1$PUNCT}

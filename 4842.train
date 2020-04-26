@@ -1,1 +1,1 @@
-{turkish=bir}{namedEntity=NONE} {turkish=Dizinin}{namedEntity=NONE} {turkish=Parçası}{namedEntity=NONE}
+{turkish=bir}{namedEntity=NONE}{universalDependency=2$DET} {turkish=Dizinin}{namedEntity=NONE}{universalDependency=3$NMOD} {turkish=Parçası}{namedEntity=NONE}{universalDependency=0$ROOT}

@@ -1,1 +1,1 @@
-{turkish=Rex}{morphologicalAnalysis=rex+NOUN+PROP+A3SG+PNON+NOM}{metaMorphemes=rex}{namedEntity=PERSON}{shallowParse=HİÇBİRİ}{universalDependency=2$NMOD} {turkish=Tremendae}{morphologicalAnalysis=Tremendae+NOUN+PROP+A3SG+PNON+NOM}{namedEntity=PERSON}{shallowParse=HİÇBİRİ}
+{turkish=Rex}{morphologicalAnalysis=rex+NOUN+PROP+A3SG+PNON+NOM}{metaMorphemes=rex}{namedEntity=PERSON}{shallowParse=HİÇBİRİ}{universalDependency=2$FLAT} {turkish=Tremendae}{morphologicalAnalysis=Tremendae+NOUN+PROP+A3SG+PNON+NOM}{namedEntity=PERSON}{shallowParse=HİÇBİRİ}{universalDependency=0$ROOT}

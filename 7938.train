@@ -1,1 +1,1 @@
-{turkish=Siyah}{morphologicalAnalysis=siyah+ADJ}{metaMorphemes=siyah}{namedEntity=NONE}{shallowParse=HİÇBİRİ} {turkish=Kadınlar}{morphologicalAnalysis=kadın+ADJ^DB+VERB+ZERO+PRES+A3PL}{metaMorphemes=kadın+lAr}{namedEntity=NONE}{shallowParse=HİÇBİRİ}
+{turkish=Siyah}{morphologicalAnalysis=siyah+ADJ}{metaMorphemes=siyah}{namedEntity=NONE}{shallowParse=HİÇBİRİ}{universalDependency=2$AMOD} {turkish=Kadınlar}{morphologicalAnalysis=kadın+ADJ^DB+VERB+ZERO+PRES+A3PL}{metaMorphemes=kadın+lAr}{namedEntity=NONE}{shallowParse=HİÇBİRİ}
