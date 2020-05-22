@@ -1,1 +1,1 @@
-{turkish=Ing}{morphologicalAnalysis=Ing+NOUN+PROP+A3SG+PNON+NOM}{metaMorphemes=Ing}{semantics=TUR10-0000000}{namedEntity=NONE}{shallowParse=NESNE} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{semantics=TUR10-1081860}{namedEntity=NONE}
+{turkish=Ing}{morphologicalAnalysis=Ing+NOUN+PROP+A3SG+PNON+NOM}{metaMorphemes=Ing}{semantics=TUR10-0000000}{namedEntity=NONE}{shallowParse=NESNE}{universalDependency=0$ROOT} {turkish=.}{morphologicalAnalysis=.+PUNC}{metaMorphemes=.}{semantics=TUR10-1081860}{namedEntity=NONE}{universalDependency=1$PUNCT}
